@@ -5,6 +5,10 @@ By Picasso_03
 S.A ID Application
 18/08/25
 */
+
+
+
+// CODE.
 import java.util.Scanner;
 public class SouthAfricanIDApplication
 {
